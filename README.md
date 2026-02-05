@@ -1,6 +1,5 @@
 
-  <p align="center">
-  <img src="assets/vinnasoft-logo.png" alt="Vinnasoft Logo" width="200"/>
+
 </p>
 <img width="572" height="236" alt="image (3)" src="https://github.com/user-attachments/assets/79d9a831-0f02-4689-92ee-f45f931da6e0" />
 
