@@ -1,11 +1,6 @@
-<p align="center">
-  <img src="https://www.vinnasoft.com/img/logo.png" alt="Vinnasoft Logo" width="200"/>
-</p>
 
-<h1 align="center">Vinnasoft Technologies Pvt. Ltd.</h1>
-
-<p align="center">
-  We design digital products that help to grow your business
+  <p align="center">
+  <img src="assets/vinnasoft-logo.png" alt="Vinnasoft Logo" width="200"/>
 </p>
 
 ---
